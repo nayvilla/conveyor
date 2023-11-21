@@ -1,5 +1,5 @@
 # conveyor
-conveyor
+Cinta transportadora con visión artificial
 
 Un colorímetro básicamente es un recurso que se utiliza para identificar el color y el matiz para realizar una medición de color aproximada. Esta herramienta mide la absorbancia de una disolución en una 
 frecuencia de luz. El objetivo de este proyecto es la implementación de un sistema de detección de colores y formas utilizando visión artificial, si bien es cierto un colorímetro comercial posee la característica 
